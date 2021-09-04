@@ -1,0 +1,18 @@
+Sales Details:
+
+Customer Name: Rahul Kumar Refrence id:0 DateTime:Sat Sep  4 15:31:29 2021
+Product_id:19 Quantity:56827 User_Quantity:1 Updated Quantity:56826 Cost:519
+Product_id:20 Quantity:2892 User_Quantity:2 Updated Quantity:2890 Cost:338
+Earning:857.0
+
+Customer Name: Roshan Raj Refrence id:1 DateTime:Sat Sep  4 15:33:22 2021
+Product_id:15 Quantity:8002 User_Quantity:1 Updated Quantity:8001 Cost:630
+Product_id:16 Quantity:7961 User_Quantity:3 Updated Quantity:7958 Cost:1404
+Product_id:18 Quantity:4408 User_Quantity:1 Updated Quantity:4407 Cost:138
+Earning:2172.0
+
+Customer Name: Vimal Tudu Refrence id:2 DateTime:Sat Sep  4 15:34:00 2021
+Product_id:22 Quantity:11000 User_Quantity:1 Updated Quantity:10999 Cost:275
+Product_id:24 Quantity:4682 User_Quantity:3 Updated Quantity:4679 Cost:660
+Product_id:25 Quantity:2023 User_Quantity:2 Updated Quantity:2021 Cost:370
+Earning:1305.0
