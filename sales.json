@@ -1,0 +1,57 @@
+{
+  "0": {
+    "Customer_Name": "Rahul Kumar",
+    "Date_Time": "Sat Sep  4 15:31:29 2021",
+    "19": {
+      "Product_id": "19",
+      "Quantity": 1,
+      "Cost": 519
+    },
+    "20": {
+      "Product_id": "20",
+      "Quantity": 2,
+      "Cost": 338
+    },
+    "Total_Amount(excluding GST)": 857.0
+  },
+  "1": {
+    "Customer_Name": "Roshan Raj",
+    "Date_Time": "Sat Sep  4 15:33:22 2021",
+    "15": {
+      "Product_id": "15",
+      "Quantity": 1,
+      "Cost": 630
+    },
+    "16": {
+      "Product_id": "16",
+      "Quantity": 3,
+      "Cost": 1404
+    },
+    "18": {
+      "Product_id": "18",
+      "Quantity": 1,
+      "Cost": 138
+    },
+    "Total_Amount(excluding GST)": 2172.0
+  },
+  "2": {
+    "Customer_Name": "Vimal Tudu",
+    "Date_Time": "Sat Sep  4 15:34:00 2021",
+    "22": {
+      "Product_id": "22",
+      "Quantity": 1,
+      "Cost": 275
+    },
+    "24": {
+      "Product_id": "24",
+      "Quantity": 3,
+      "Cost": 660
+    },
+    "25": {
+      "Product_id": "25",
+      "Quantity": 2,
+      "Cost": 370
+    },
+    "Total_Amount(excluding GST)": 1305.0
+  }
+}
