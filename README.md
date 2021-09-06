@@ -1,4 +1,4 @@
-# InventoryManagmentSystem
+# InventoryManagmentSystem(ETG Assignment)
 
 In this IMS project there are 5 files:<br/>
 
@@ -33,7 +33,7 @@ The various attribute stored in "sales.json" are:<br/>
 i.Refrence_id(Used as key to map below details)<br/>
 ii."Customer_Name"<br/>
 iii."Product_id" which maps to {"Product_id","Quantity","Cost"}(for each products purchased)><br/>
-iii."Total_Amount"
+iv."Total_Amount"
 
-*Refrence_id-->{Customer_Name, Date_Time, Product_id-->{Product_id,Quantity,Cost}(for each products purchased), Total_Amount(excluding GST)}
+*Refrence_id-->{Customer_Name, Date_Time, Product_id-->{Product_id,Quantity,Cost}(for each product purchased), Total_Amount(excluding GST)}
 
